@@ -35,47 +35,6 @@ Aplikasi CRUD (Create, Read, Update, Delete) untuk mengelola koleksi buku dengan
 
 ---
 
-## 🚀 Cara Menjalankan Project Laravel
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/dedeheriyanto/UAS_Book.git
-   ```
-
-2. Masuk ke direktori project:
-   ```bash
-   cd UAS_Book
-   ```
-
-3. Install dependency Laravel:
-   ```bash
-   composer install
-   ```
-
-4. Salin file `.env`:
-   ```bash
-   cp .env.example .env
-   ```
-
-5. Konfigurasikan `.env` untuk koneksi database.
-
-6. Generate key:
-   ```bash
-   php artisan key:generate
-   ```
-
-7. Jalankan migration:
-   ```bash
-   php artisan migrate
-   ```
-
-8. Jalankan server Laravel:
-   ```bash
-   php artisan serve
-   ```
-
----
-
 ## ✍️ Author
 
 Dede Heriyanto  
